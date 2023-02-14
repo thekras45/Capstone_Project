@@ -26,7 +26,7 @@ In the capstone project, we will wrap up all skills that you learned in the Data
 ### Phase#2: Dataset 💽
 - Pick a suitable dataset that helps you to find reasonable answers to your questions.
 - Choose a real dataset that needs to clean and preprocess.
-- The dataset should have at least 3000 records for Machine Learning Algorithms / 10,000 for Deep Learning Algorithms.
+- The dataset should have at least 5000 records for Machine Learning Algorithms / 10,000 for Deep Learning Algorithms.
 - Make sure that you really understand your dataset.
 
 ### Phase#3: Data Analysis and Preprocessing (Exploratory Data Analysis (EDA)) 🔎📊
