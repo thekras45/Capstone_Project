@@ -33,6 +33,7 @@ In the capstone project, we will wrap up all skills that you learned in the Data
 - Apply the essential EDA steps: head, shape, info, describe, and missing values.
 - Draw at least 10 interactive charts that give an overview of your data.
 - The charts should have proper formatting including XY-Axis labels and the main title.
+- Create an interactive dashboard using Plotly.
 
 ### Phase#4: Data Modeling (Machine Learning) 🤖
 - Choose three to five proper ML Algorithms.
@@ -51,8 +52,6 @@ In the capstone project, we will wrap up all skills that you learned in the Data
 ### Phase#7: Conclusion 🏁
 - Write a final conclusion and recommendations (your interpretation of the results).
 
-### Optional Requirements - Nice to Have 😍
-- Create an interactive dashboard using Plotly.
 
 ## Final Deliverables 📦
 Each team has to create a capstone project repository with the following files:
