@@ -67,5 +67,5 @@ Each team has to create a capstone project repository with the following files:
     
 > **Note:** Please, use the **proper Markdown format** for readability reasons 🤓🙏.
 
-### Project Deadline (5 Feb at 9:00 am)
+### Project Deadline (5 Mar at 9:00 am)
 
